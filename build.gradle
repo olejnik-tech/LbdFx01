@@ -26,4 +26,16 @@ dependencies {
     // testCompile dependency to testCompile 'org.testng:testng:6.8.1' and add
     // 'test.useTestNG()' to your build script.
     testCompile 'junit:junit:4.12'
+
+    // JavaFX
+    implementation group: 'org.openjfx', name: 'javafx-controls', version: '17.0.1'
+    implementation group: 'org.openjfx', name: 'javafx-graphics', version: '17.0.1'
+    implementation group: 'org.openjfx', name: 'javafx-base', version: '17.0.1'
+    implementation group: 'org.openjfx', name: 'javafx-fxml', version: '17.0.1'
+    implementation group: 'org.openjfx', name: 'javafx-web', version: '17.0.1'
+    implementation group: 'org.openjfx', name: 'javafx-swing', version: '17.0.1'
+    implementation group: 'org.openjfx', name: 'javafx-media', version: '17.0.1'
+
+
+
 }
