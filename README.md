@@ -21,6 +21,11 @@ in Idea > Project Structure > Libraries > Add > javafx-sdk-17.0.1/bin/*.jar (sel
 Also apply for all modules, not just the project directory.
 
 
+notes from previous project:
+
+add VM option
+`--module-path ~/java-lib/javafx-sdk-17.0.1/lib --add-modules=javafx.controls,javafx
+./gradlew bootRun`
 
 
 ## Learning Sources
