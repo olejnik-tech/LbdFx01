@@ -7,6 +7,8 @@ First learning project for JavaFX education purposes (Lbd stands for "learning b
   - Debian GNU/Linux 10 on workstation (in virtualbox 6.1)
 - IDE: Jetbrains - Idea (2021.2.2)
 - OpenJDK 11 SDK
+- Gradle -v 6.9.1
+  `gradle wrapper --gradle-version 6.9.1`
 - JavaFX
 
 ## JavaFX init
