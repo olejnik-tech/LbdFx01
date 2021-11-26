@@ -10,14 +10,12 @@ First learning project for JavaFX education purposes (Lbd stands for "learning b
 - JavaFX
 
 ## JavaFX init
-https://gluonhq.com/products/javafx/
-
-file: openjfx-17.0.1_linux-x64_bin-sdk
-
+openjfx-17.0.1_linux-x64_bin-sdk
 in Idea > Project Structure > Libraries > Add > javafx-sdk-17.0.1/src.zip
-
-
-
+right click on javafx library > add to modules > select all and add
+Project Structure > Modules > Select all > Check Dependencies tab if javafx is checked
 
 ## Learning Sources
 `https://www.tutorialspoint.com/javafx/index.htm`
+
+` https://www.youtube.com/watch?v=nKIMGH0l3Wo&ab_channel=PaulGestwicki `
