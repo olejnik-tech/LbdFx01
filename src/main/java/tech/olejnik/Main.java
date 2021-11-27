@@ -30,6 +30,6 @@ public class Main extends Application {
         root.getChildren().add(btn);
         primaryStage.setScene(new Scene(root, 300, 250));
         primaryStage.show();
-        //test
+        //test 2
     }
 }
