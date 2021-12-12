@@ -1,8 +1,7 @@
 plugins {
     id 'java'
-    //application plugin specify Main class
-    id 'application'
-    id 'org.openjfx.javafxplugin' version '0.0.7'
+    id 'application' //application plugin specify Main class
+    id 'org.openjfx.javafxplugin' version '0.0.10'
 }
 
 group 'tech.olejnik'
@@ -21,7 +20,7 @@ dependencies {
 
 // customatization of fx plugin
 javafx {
-    modules = [ 'javafx.controls']
+    modules = ['javafx.controls']
     version = '17.0.1'
 }
 
